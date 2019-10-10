@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Animales</string>
+    <string name="testView_mensaje">Pick an animal</string>
+    <string name="perro">Dog</string>
+    <string name="gato">Cat</string>
+    <string name="gallo">Rooster</string>
+    <string name="burro">Donkey</string>
+    <string-array name="listaAnimales">
+        <item>@string/perro</item>
+        <item>@string/gato</item>
+        <item>@string/gallo</item>
+        <item>@string/burro</item>
+    </string-array>
+</resources>
